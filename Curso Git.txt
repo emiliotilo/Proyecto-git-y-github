@@ -1,0 +1,55 @@
+﻿Curso programación
+
+
+En git solo se puede usar texto plano es decir cosas no binarias ya que por ejemplo  texto subrayado o de color se guarda como texto binario
+
+
+Datos sobre Git Bash
+
+
+./ es la ruta actual y ../ es la ruta anterior
+
+
+
+
+
+
+
+
+Comandos Git bash 
+ls -l Se ven muchas cosas
+clear borrar comandos
+cd { Nombre del disco } para cambiar el disco donde se coge el almacenamiento
+pwd ver en qué disco se está trabajando
+cd… para volver al directorio anterior
+touch <Archivo>.txt para crear archivo texto plano
+cat para ver el contenido de un archivo
+si pones !y el número de un comando que aparece en history se ejecutará
+si pones rm y un archivo este se eliminará
+rm -f eliminarlo aunque sea importante
+comando - - Help te das opciones que puedes hacer con r
+git init se empiezan a ejecutar comandos de git
+git status ver la branch  en la que estas los comits y las filas que tienes
+git add creas un commits 
+git rm –cached cancelar guardado 
+git checkout para cambiar de rama o de commit
+poner git add . para aceptar los cambios en los commits o crear un comit
+git log para ver el historial de comits
+Comandos Git CMD
+cls para limpiar consola
+si quieres poner un disco para usar pones cd Letra del disco:>
+history ver lista de todos los comandos
+bit branch ver las ramas
+git show ver cambios
+
+
+
+
+Comandos Git CMD
+
+
+dir para ver las carpetas de la carpeta o disco en el que estás trabajando
+cd <”Carpeta”> para elegir una carpeta del disco o carpeta en el que se esta trabajando
+cd… retroceder
+ls -al ver archivos ocultos
+more para ver el contenido de un archivo
