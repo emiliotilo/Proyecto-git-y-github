@@ -3,3 +3,5 @@
 Ahora vamos a probar el git show
 
 Se prueva a usar git commit -am
+
+Se crea una rama en una rama
