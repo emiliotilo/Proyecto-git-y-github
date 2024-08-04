@@ -2,3 +2,4 @@
 
 Ahora vamos a probar el git show
 
+Se prueva a usar git commit -am
