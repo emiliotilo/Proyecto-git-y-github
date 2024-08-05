@@ -1,7 +1,1 @@
-﻿La prueba tuvo exito
-
-Ahora vamos a probar el git show
-
-Se prueva a usar git commit -am
-
-Se crea una rama en una rama
+﻿Ahora vamos a hacer una segunda prueba con merge
